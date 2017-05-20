@@ -1,0 +1,5 @@
+---
+- name: Configure nrpe 
+  hosts: "{{ host_group }}"
+  roles:
+    - nagios_nrpe_setup
