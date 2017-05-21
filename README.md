@@ -1,4 +1,4 @@
-Role Name
+nagios_nrpe_setup
 =========
 
 Install EPEL respository.
